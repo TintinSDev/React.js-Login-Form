@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.navigation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 100px;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  z-index: 99;
+
+}
+
+
+
+
+/* .btnLogin-popup:hover {
+  background: #023047;
+  color: aliceblue;
+} */
